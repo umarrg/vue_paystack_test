@@ -30,7 +30,7 @@ export default {
     return {
       paystackkey: "pk_test_c28045823923ebdf794fe5124bcc433e252dad37",
       email: "umarabubakarfta@gmail.com", 
-      amount: 10000, 
+      amount: 0000, 
     };
   },
   computed: {

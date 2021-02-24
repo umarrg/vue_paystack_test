@@ -28,9 +28,9 @@ export default {
   },
   data() {
     return {
-      paystackkey: "pk_test_c28045823923ebdf794fe5124bcc433e252dad37",
-      email: "umarabubakarfta@gmail.com", 
-      amount: 10000, 
+      paystackkey: "pk_test_c28045823923ebdf794fe5124bcc433e252dad37", //paystack public key
+      email: "umarabubakarfta@gmail.com", // Customer email
+      amount: 1000000, // in kobo
     };
   },
   computed: {

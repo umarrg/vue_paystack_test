@@ -1,7 +1,7 @@
 <template>
   <v-container fill-height>
     <v-row justify="center" align="center">
-      <v-card>
+      <v-card >
         <v-card-text>
           <paystack
             :amount="amount"
@@ -12,8 +12,7 @@
             :close="close"
             :embed="false"
           >
-            <i class="fas fa-money-bill-alt"></i>
-            Make Payment
+            
           </paystack>
         </v-card-text>
       </v-card>
